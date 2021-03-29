@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroClass", "HeroClass.csproj", "{406168B6-ED86-4272-ADC3-AE610A5897D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406168B6-ED86-4272-ADC3-AE610A5897D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406168B6-ED86-4272-ADC3-AE610A5897D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406168B6-ED86-4272-ADC3-AE610A5897D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406168B6-ED86-4272-ADC3-AE610A5897D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C246586D-274C-4E09-8DE9-5FAC7B90F2D9}
+	EndGlobalSection
+EndGlobal
